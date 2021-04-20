@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "PC Mac Pro",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Sansug S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "casa",
+      "price": "1293",
+      "id": 4
+    },
+    {
+      "name": "IPhone 12",
+      "price": "1300",
+      "id": 5
+    }
+  ]
+}
